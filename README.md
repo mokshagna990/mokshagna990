@@ -123,16 +123,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshagna990&layout=compact&langs_count=8&theme=tokyonight"/>
-
+![Mokshagna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&card_width=445)
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokshagna990&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mokshagna990&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
 </div>
 
 ---
