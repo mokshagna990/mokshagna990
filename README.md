@@ -77,37 +77,46 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 AI/ML & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-00599C?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
@@ -115,14 +124,14 @@ me.say_hi()
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mokshagna990&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -130,64 +139,101 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
+### 🌐 Full Stack & FinTech
+
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Website
-Full-stack e-commerce platform with modern UI/UX
-- **Tech**: React, Node.js, MongoDB
-- **Features**: Cart, Payment, Admin Panel
-- [View Project →](https://github.com/YOUR_USERNAME/E-Commerce-Website)
+### 🛒 AI-Powered E-Commerce Platform
+Full-stack MERN e-commerce application with AI-based product recommendations
+- **Tech**: MongoDB, Express, React, Node.js
+- **Features**: Secure Auth, AI Recommendations, Cart & Wishlist, Order Processing
+- [View Project →](https://github.com/mokshagna990/E-Commerce-Website.git)
 
 </td>
 <td width="50%">
 
-### 💳 Payment Workflow System
-Production-grade UPI-inspired payment backend
-- **Tech**: Python, MongoDB, FastAPI
-- **Features**: VPA, Transactions, Security
-- [View Project →](https://github.com/YOUR_USERNAME/payment-workflow)
+### 💳 Payment Workflow Backend System
+Production-grade UPI-inspired payment backend with atomic transactions
+- **Tech**: FastAPI, MongoDB, Python
+- **Features**: Secure Authentication, Idempotency, Payment State Machine
+- [View Project →](https://github.com/mokshagna990/Payment-Workflow-System)
 
 </td>
 </tr>
+</table>
+
+### 🤖 AI & Computer Vision
+
+<table>
 <tr>
+<td width="50%">
+
+### 🍽️ Food Calorie Estimation System
+Deep learning web app estimating calories from food images
+- **Tech**: MobileNetV2, Django, Transfer Learning
+- **Features**: Real-time Predictions, Nutritional Analysis
+- [View Project →](https://github.com/mokshagna990/Food_Calories_Estimation.git)
+
+</td>
 <td width="50%">
 
 ### 💊 Pill Identification System
-AI-powered pill identification using computer vision
-- **Tech**: Python, TensorFlow, OpenCV
-- **Features**: Image Recognition, Classification
-- [View Project →](https://github.com/YOUR_USERNAME/Pill-Identification)
-
-</td>
-<td width="50%">
-
-### 🍽️ Calories Estimation
-ML-based food calorie estimation system
-- **Tech**: Python, Deep Learning
-- **Features**: Image Analysis, Nutrition Data
-- [View Project →](https://github.com/YOUR_USERNAME/calories-estimation)
+Medical AI system identifying 20 pharmaceutical pills
+- **Tech**: MobileNetV2, EfficientNet, Django
+- **Features**: Computer Vision, Pill Info, Dosage Details
+- [View Project →](https://github.com/mokshagna990/Pill_Identification.git)
 
 </td>
 </tr>
+</table>
+
+### 📊 Data Analytics
+
+<table>
 <tr>
 <td width="50%">
 
-### 🌧️ Rainfall Prediction
-Weather prediction using machine learning
-- **Tech**: Python, scikit-learn
-- **Features**: Time Series, Forecasting
-- [View Project →](https://github.com/YOUR_USERNAME/RAIN_FALL)
+### 📈 HR Analytics Dashboard
+Interactive Power BI dashboard analyzing 1,470 employees
+- **Tech**: Power BI, DAX, Data Visualization
+- **Features**: Promotions, Job Satisfaction, Demographics Analysis
+- [View Project →](https://github.com/mokshagna990/HR_Analytics_Dashboard_PowerBI.git)
 
 </td>
 <td width="50%">
 
-### 🖼️ Smart Framing
-Intelligent image framing system
-- **Tech**: Python, Computer Vision
-- **Features**: Auto-crop, Enhancement
-- [View Project →](https://github.com/YOUR_USERNAME/SMART-FRAMING)
+### 💬 WhatsApp Behavior Analysis
+NLP project analyzing human behavior in WhatsApp conversations
+- **Tech**: NLP, Machine Learning, Deep Learning
+- **Features**: Sentiment Analysis, Topic Modeling, Group Dynamics
+- [View Project →](https://github.com/mokshagna990/Analyzing-Human-Behavior-in-WhatsApp-Messages-using-Natural-Language-Processing.git)
+
+</td>
+</tr>
+</table>
+
+### 🌾 Agriculture & Environment
+
+<table>
+<tr>
+<td width="50%">
+
+### � Smart Farming – Crop Recommendation
+ML-based decision support system for optimal crop selection
+- **Tech**: Random Forest, SVM, XGBoost
+- **Features**: Soil Analysis, Environmental Factors, Crop Optimization
+- [View Project →](https://github.com/mokshagna990/Crop_Recommendation.git)
+
+</td>
+<td width="50%">
+
+### 🌧️ Rainfall Prediction System
+ML-powered rainfall forecasting with 99,000+ historical records
+- **Tech**: XGBoost, Random Forest, Django
+- **Features**: Weather Forecasting, Time Series Analysis
+- [View Project →](https://github.com/mokshagna990/Rain_Fall_Prediction.git)
 
 </td>
 </tr>
@@ -199,7 +245,7 @@ Intelligent image framing system
 
 <div align="center">
   
-[![Mokshagna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Mokshagna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mokshagna990&theme=tokyo-night)](https://github.com/Mokshagna990)
 
 </div>
 
@@ -209,10 +255,10 @@ Intelligent image framing system
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mokshagna3042%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshagna3042@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-mokshagna3042%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshagna990@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokshagna990)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://glassy-aura-showcase.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mokshagna990)
 
 </div>
 
@@ -224,7 +270,7 @@ Intelligent image framing system
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Mokshagna990&color=00D9FF&style=for-the-badge)
 
 ---
 
