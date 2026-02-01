@@ -124,14 +124,14 @@ me.say_hi()
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshagna990&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mokshagna990&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokshagna990&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
