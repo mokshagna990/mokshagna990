@@ -123,14 +123,21 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-![Mokshagna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&card_width=445)
+  
+<a href="https://github.com/Mokshagna990">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</a>
+
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mokshagna990&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
-</div>
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Mokshagna990&theme=tokyonight" alt="GitHub Streak"/>
+</a>
 
+</div>
 ---
 
 ## 🏆 Featured Projects
