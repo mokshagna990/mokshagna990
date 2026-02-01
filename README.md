@@ -255,7 +255,7 @@ ML-powered rainfall forecasting with 99,000+ historical records
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mokshagna3042%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshagna990@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mokshagna990%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshagna990@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokshagna990)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://glassy-aura-showcase.lovable.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mokshagna990)
