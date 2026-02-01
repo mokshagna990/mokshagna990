@@ -124,20 +124,17 @@ me.say_hi()
 
 <div align="center">
   
-<a href="https://github.com/Mokshagna990">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokshagna990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshagna990&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Mokshagna990&theme=tokyonight" alt="GitHub Streak"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokshagna990&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
+
 ---
 
 ## 🏆 Featured Projects
