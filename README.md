@@ -60,7 +60,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🏢 Federal Soft Software
+### 🏢 Federal Soft Systems
 **Flask Backend Development Intern**  
 📅 June 2023 - October 2023  
 🔹 Built RESTful APIs with Flask  
