@@ -235,6 +235,22 @@ ML-powered rainfall forecasting with 99,000+ historical records
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mokshagna990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshagna990&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mokshagna990&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
